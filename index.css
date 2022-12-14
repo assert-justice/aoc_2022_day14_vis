@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    padding: 2%;
+    background-color: rgb(0, 0, 54);
+    color: white;
+}
+
+textarea{
+    background-color: rgb(0, 0, 54);
+    color: white;
+}
